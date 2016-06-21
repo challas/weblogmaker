@@ -17,9 +17,9 @@ keep all templates in template dir
 
 
 ## Directory structure
-weblogmaker\
-weblogmaker\readme.txt
-weblogmaker\articles
-weblogmaker\bin
-weblogmaker\site
-weblogmaker\templates
+* weblogmaker\
+* weblogmaker\readme.txt
+* weblogmaker\articles
+* weblogmaker\bin
+* weblogmaker\site
+* weblogmaker\templates
